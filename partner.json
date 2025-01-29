@@ -1,7 +1,12 @@
 [
     {
-    "name": "Hackclub",
+    "name": "Hack Club",
     "url": "https://hackclub.com/",
     "image": "https://adamxu.net/counterspell/hc-logo.png"
+  },
+  {
+    "name": "Collège de Paris Casablanca",
+    "url": "https://maroc.collegedeparis.com/",
+    "image": "college_de_paris.webp"
   }
 ]
